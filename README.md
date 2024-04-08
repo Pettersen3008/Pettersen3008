@@ -36,12 +36,6 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=pettersen3008&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <a href="https://app.daily.dev/pettersen3008"><img src="https://api.daily.dev/devcards/v2/5aoaoCLCSM6YlUPyCJK6f.png?r=5x8" width="356" alt="Sander Pettersen's Dev Card"/></a>
